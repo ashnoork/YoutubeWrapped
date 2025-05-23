@@ -22,19 +22,9 @@ Frontend (User App):
 4. On first launch, sign in and upload your YouTube data to start generating your dashboard.
 Backend is deployed, so you don't have to do anything
 
-## Team Details
-
-### Members
-* Ashnoor Randhawa (akrandha@uwaterloo.ca)
-* Nima Arfeen (naarfeen@uwaterloo.ca)
-* Nivriti Bajwa (n3bajwa@uwaterloo.ca)
-* Sam Meydanshahi (smeydans@uwaterloo.ca)
-
 
 ## Documentation
 
-* [Project Proposal](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/Project-Proposal)
-* [Design Proposal](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/Design-Proposal)
 * [Terms and Conditons](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/Terms-and-Conditions)
 * [Privacy Policy](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/Privacy-Policy)
 * [User Guide](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/User-Guide)
@@ -42,20 +32,5 @@ Backend is deployed, so you don't have to do anything
 * [Class Diagram for Back End](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/Class-Diagrams-for-Back-End)
 * [Component Diagram](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/Component-diagram)
 
-## Project Information
 
-### [Team Contract](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/Team-Contract)
-
-Everyone agrees to the code of conduct outlined in the course policies.
-
-### Meeting Minutes
-* [Meeting Notes](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/Meeting-Notes-Links)
-
-
-### Release Notes 
-* [Release#1](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/home)
-* [Release#2](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/Release-2)
-* [Release#3](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/Release-3)
-* [Release#4](https://git.uwaterloo.ca/akrandha/kotlin-app/-/wikis/Release-4)
-* [Release#4.1 - ADD LINK TO RELEASE WHEN COMPLETE]
 
